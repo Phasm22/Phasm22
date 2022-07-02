@@ -28,3 +28,5 @@ I love creating and learning. I started with python and I've fiddled with other 
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/Phasm22"><img src="https://github-readme-stats.vercel.app/api?username=Phasm22&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Phasm22's GitHub stats" /></a>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
