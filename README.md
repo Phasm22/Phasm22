@@ -7,7 +7,7 @@ Cybersecurity Student
 I love creating and learning. I started with python and I've fiddled with other languages but python and JS are my top two. Working on implementing different web apps into docker quickly deploy and scale applications into any environment.
 
 * 🌍  I'm based in Colorado Springs
-* 🖥️  See my portfolio at [Github](http://github.com/Phasm22)
+* 🖥️  See my portfolio at [Me](https://www.tandonjenkins.com)
 
 ### Skills
 
