@@ -31,5 +31,5 @@ I love creating and learning. I started with python and I've fiddled with other 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phasm22&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![](https://raw.githubusercontent.com/phasm22/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/phasm22/github-stats/master/generated/overview.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/Phasm22/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/Phasm22/github-stats/master/generated/overview.svg#gh-light-mode-only)
