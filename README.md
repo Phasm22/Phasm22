@@ -1,4 +1,4 @@
-Hi 👋 My name is Tandon Jenkins
+👋 Tandon Jenkins
 ===============================
 
 Cybersecurity Student
